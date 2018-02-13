@@ -1,0 +1,35 @@
+push int8(5) ;nl / 2
+push int8(5) ;nl / 2
+push int8(117) ;u
+push int8(111) ;o
+push int8(99) ;c
+push int8(117) ;u
+push int8(111) ;o
+push int8(67) ;C
+dump
+print
+pop
+
+print
+pop
+
+print
+pop
+
+print
+pop
+
+print
+pop
+
+print
+pop
+
+; 5 + 5 = \n
+add
+print
+pop
+
+dump
+
+exit

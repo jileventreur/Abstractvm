@@ -1,0 +1,4 @@
+pushint8(42)
+push int16(42);
+;;
+exit;;

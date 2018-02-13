@@ -1,0 +1,5 @@
+push int16(3)
+push int16(2)
+dump;; pilaliladoum
+pow
+dump;; pilaliladoum

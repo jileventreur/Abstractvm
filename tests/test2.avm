@@ -1,0 +1,17 @@
+; Overflow
+push int8(420)
+push int8(10)
+push int8(10)
+push int16(10)
+push int16(10)
+push int32(10)
+push float(10.0)
+push float(10.0)
+push double(-10.0)
+push double(-10.0)
+add
+mul
+mod
+div
+sub
+dump

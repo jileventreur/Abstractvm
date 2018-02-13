@@ -1,0 +1,6 @@
+; Underflow
+push int8(42)
+push int8(-200)
+add
+dump
+exit

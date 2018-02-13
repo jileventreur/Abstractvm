@@ -1,0 +1,16 @@
+push int8(33) ;!
+push int8(112) ;p
+push int8(111) ;o
+push int16(10.) ;l
+push int6(112) ;p
+print;;
+poup
+print
+pop
+print
+pop;
+print
+pop
+print
+pop
+exit

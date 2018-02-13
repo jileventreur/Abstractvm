@@ -1,0 +1,8 @@
+push int8(1)
+push float(120.5)
+add
+push int8(-128)
+dump
+           													 push                  int8(8)
+
+exit

@@ -1,0 +1,6 @@
+; Underflow
+push int16(1000)
+push int16(-200)
+mul
+dump
+exit
